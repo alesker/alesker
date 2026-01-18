@@ -1,11 +1,12 @@
 # I'm Ilya 👋
 ![](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenlxbW1iYjlwMjF0ejg1YWFlZ2E5eTl5a2h2N2FtY3VjcWd3aDFmbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ornk57KwDXf81rjWM/giphy.gif)
 
-I do mobile stuff (product development, system design, CI/CD), going full-stack when Gondor calls for aid.
+I do mobile stuff (product development, system design, CI/CD), going full-stack when Gondor calls for aid 🔥
 
 - 📱 **Flutter**
 - 🍎 **Swift** and **Objective-C**
 - 💎 **Ruby**
+- ⚙️ some **Go** and **Rust** on the side
 <!--
 - with some 🦀 *Rust* sprinkled on the side
 -->
