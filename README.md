@@ -6,10 +6,7 @@ I do mobile stuff (product development, system design, CI/CD), going full-stack 
 - 📱 **Flutter**
 - 🍎 **Swift** and **Objective-C**
 - 💎 **Ruby**
-- ⚙️ some **Go** and **Rust** on the side
-<!--
-- with some 🦀 *Rust* sprinkled on the side
--->
+- ⚙️ some **Go** on the side
 
 <!--
 **alesker/alesker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
